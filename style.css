@@ -1,6 +1,6 @@
 :root {
-  --brand: #2563eb;
-  --dark: #1e293b;
+  --brand: #78efd9;
+  --dark: #15403b;
   --light: #f8fafc;
   --white: #ffffff;
 }
@@ -10,7 +10,7 @@
 }
 
 body {
-  margin: 0;
+  margin: 20px;
   font-family: Arial, sans-serif;
   color: var(--dark);
   background: var(--light);
