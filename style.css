@@ -1,6 +1,6 @@
 :root {
-  --brand: #2563eb;
-  --dark: #1e293b;
+  --brand: #327c6f;
+  --dark: #15403b;
   --light: #f8fafc;
   --white: #ffffff;
 }
@@ -10,7 +10,7 @@
 }
 
 body {
-  margin: 0;
+  margin: 20px;
   font-family: Arial, sans-serif;
   color: var(--dark);
   background: var(--light);
@@ -20,7 +20,7 @@ body {
 /* Header - Flexbox */
 .header {
   display: flex;
-  justify-content: space-between;
+  justify-content:space-between;
   align-items: center;
   padding: 20px;
   background: var(--white);
@@ -56,6 +56,12 @@ a:hover {
 
 h2 {
   margin-bottom: 20px;
+}
+.about>p {
+  margin-bottom: 05px;
+  width: 80%;
+  display: flex;
+  align-items: center;
 }
 
 /* Projects - CSS Grid */
