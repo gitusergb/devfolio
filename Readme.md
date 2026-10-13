@@ -31,7 +31,7 @@ Add your GitHub Pages URL here:
 
 https://your-username.github.io/devfolio/
 
-## Live URL:  
+## Live URL:  https://myfol.netlify.app/
 
 ## Author
 
